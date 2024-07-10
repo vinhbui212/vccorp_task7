@@ -1,6 +1,7 @@
 package com.example.task7.model;
 
 
+
 public class User {
 
     private int id;
@@ -8,6 +9,7 @@ public class User {
     private String address;
     private int age;
     private long money;
+
     public User() {
     }
 
